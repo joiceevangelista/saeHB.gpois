@@ -84,12 +84,6 @@ Estimated model coefficient
 result$coefficient
 ```
 
-Parameter of dispersion
-
-``` r
-result$alpha
-```
-
 ## References
 
 -   Ntzoufras, I. (2009). Bayesian Modelling Using WinBUGS. New Jersey : John Wiley & Sons, Inc.
